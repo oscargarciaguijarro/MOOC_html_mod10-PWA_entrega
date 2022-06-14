@@ -1,0 +1,58 @@
+{
+    "name": "Shooter Game",
+    "short_name": "Shooter Game",
+    "icons": [
+        {"src": "assets/bueno_muerto.png",
+         "sizes": "192x912",
+         "type": "image/png"},
+
+         {"src": "assets/bueno.png",
+         "sizes": "512x512",
+         "type": "image/png"},
+
+         {"src": "assets/clases.png",
+          "sizes": "256x256",
+          "type": "image/png"},
+
+         {"src": "assets/game_over.png",
+          "sizes":  "640x640",
+          "type": "image/png"},
+
+         {"src": "assets/jefe_muerto.png",
+          "sizes": "192x912",
+          "type": "image/png"},
+
+         {"src": "assets/jefe.png",
+            "sizes": "192x912",
+            "type": "image/png"},
+
+         {"src": "assets/malo_muerto.png",
+            "sizes": "192x912",
+            "type": "image/png"},
+
+         {"src": "assets/malo.png",
+            "sizes": "192x912",
+            "type": "image/png"},
+
+         {"src": "assets/screenshot.png",
+            "sizes": "192x912",
+            "type": "image/png"},
+
+         {"src": "assets/shot1.png",
+            "sizes": "192x912",
+            "type": "image/png"},
+
+         {"src": "assets/shot2.png",
+            "sizes": "192x912",
+            "type": "image/png"},
+
+         {"src": "assets/you_win.png",
+            "sizes": "192x912",
+            "type": "image/png"}
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#333333",
+    "theme_color": "#6200ee"
+
+}
